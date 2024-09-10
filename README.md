@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Odion27/Odion27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Odion Idiake, a self-taught data analyst with a passion for data-driven decision making. Currently, I'm honing my skills in data analysis and visualization.
+## 🎓 Currently Learning
 
-Here are some ideas to get you started:
+- **Data Analysis** with SQL and Python
+- **Data Visualization** using tools like PowerBI and Matplotlib
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib
+- **Tools:** Excel, PowerBI, Jupyter Notebook
+- **Techniques:** Data Cleaning, Exploratory Data Analysis, Data Visualization, Web Scraping
